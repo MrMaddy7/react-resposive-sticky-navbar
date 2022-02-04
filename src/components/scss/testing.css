@@ -1,0 +1,18 @@
+.box1
+{
+    min-width: 100vh;
+    height: 50vh;
+    background-color: orange;
+}
+.box2
+{
+    min-width: 100vh;
+    height: 50vh;
+    background-color: whitesmoke;
+}
+.box3
+{
+    min-width: 100vh;
+    height: 50vh;
+    background-color: green;
+}
